@@ -5,11 +5,6 @@ const About = () => {
     <>
       <section className='section' id='about'>
         <Title title1='about' title2='us' />
-        <div className='section-title'>
-          <h2>
-            about <span>us</span>
-          </h2>
-        </div>
 
         <div className='section-center about-center'>
           <div className='about-img'>
